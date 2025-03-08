@@ -51,5 +51,3 @@ Client
 - Switch to another terminal for the Client
 - Connect with the server using the "make clientPerson" command later.
 
-#Make sure to run the code on WinSCP with the "Test" file
-
