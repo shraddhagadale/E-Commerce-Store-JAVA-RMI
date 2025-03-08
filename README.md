@@ -1,4 +1,4 @@
-# Online Store-A Java MVC Application 
+# E-Commerce Store - Java MVC Application 
 
 # Introduction:
 
@@ -34,7 +34,7 @@ The components of this project include:
 Server
 
 - Run the program using the "make" command.
-- The port number used is 2233
+- Port number : 3033
 - Later use the command "make server" command.
 - To log in as a customer, please use the values: 
 	username: customer1, Password: Pass@1234
