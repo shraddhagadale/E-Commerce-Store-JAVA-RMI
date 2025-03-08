@@ -54,6 +54,3 @@ Client
 
 #Make sure to run the code on WinSCP with the "Test" file
 
-# Observations and Results
-- They are mentioned in the Report.pdf and screenshots.docx 
-- Also a JAR file is updated which allows easy execution of the code.
