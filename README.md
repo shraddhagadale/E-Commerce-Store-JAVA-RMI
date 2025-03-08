@@ -29,7 +29,6 @@ The components of this project include:
 5. Follow the prompts to browse, manage, and purchase items from the online store.
 
 ## How to RUN
-- Make sure you have installed Java before running the code
 
 Server
 
