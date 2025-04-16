@@ -34,8 +34,8 @@ Server
 
 - Run the program using the "make" command.
 - Port number : 3033
-- Later use the command "make server" command.
--To log in as an admin, please use the values:
+- Use the command "make server" command.
+- To log in as an admin, please use the values:
 	- username: admin1, password: Pass@1234
 	- username: admin2 password: Pass@9090
 	- username: admin3 password: Pass@8080
